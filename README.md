@@ -1,5 +1,8 @@
 # levcalc
+
 Vibe-coded LEV (Likely Exploitable Vulnerability) Calculator
+
+https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.41.pdf
 
 100% vibe-coded, one shot
 
