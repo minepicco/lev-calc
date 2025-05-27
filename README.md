@@ -4,6 +4,8 @@ Vibe-coded LEV (Likely Exploitable Vulnerability) Calculator
 
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.41.pdf
 
+> TL;DR: NIST CSWP 41 proposes a new metric to help organizations better predict the probability of software and hardware vulnerabilities being actively exploited. This metric aims to improve vulnerability management by enabling more effective prioritization of patching and remediation efforts, focusing resources on the threats that pose the most immediate risk.
+
 100% vibe-coded, one shot
 
 
